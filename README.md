@@ -39,6 +39,10 @@ yarn start:dev
 localhost:3000/api/v2/seed
 ```
 
+>La aplicación ha sido deployada en los siguientes dominios:  
+Nestjs app : https://nest-pokemon-production-c43b.up.railway.app/  
+MongoDB: mongodb://mongo:CddB43gDAh-b6Fgag6fbgBcDe-3-BcEC@monorail.proxy.rlwy.net:48695
+
 ## Stack usado
 
 - MongoDB
